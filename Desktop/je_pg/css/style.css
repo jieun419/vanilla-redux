@@ -1,5 +1,0 @@
-body { margin:0; padding:0; }
-
-nav { width: 100%; height:auto; display:flex; background:#fff; border-bottom:1px solid #dcdcdc;}
-nav h2 { color:#f0f; }
-nav .gnb ul { display:flex; list-style: none;}
