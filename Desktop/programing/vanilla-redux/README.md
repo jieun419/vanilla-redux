@@ -58,7 +58,7 @@ const rootReducer = combineReducers({
 
 ## Action
 - Action은 객체 형식으로 type을 필수로 지정해 주어야한다.
-- patload는 필수는 아니지만 필요에 따라 구체적인 값을 전달해 줄 수 있다.
+- payload는 필수는 아니지만 필요에 따라 구체적인 값을 전달해 줄 수 있다.
 
 ```jsx
 {type: 'INCREASE'}
